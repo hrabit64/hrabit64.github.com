@@ -1,0 +1,21 @@
+# main links
+main:
+  - title: "category"
+    url: /view_category/
+  - title: "search"
+    url: /search/
+
+
+categories:
+  - title: ML
+    children:
+      - title: "ML-Agents & 강화학습"
+        url: /categories/ML_Agents/
+      - title: "Tensorflow"
+        url: /categories/Tensorflow/
+  
+  - title: etc
+    children:
+      - title: "기타"
+        url: /categories/etc/
+        
