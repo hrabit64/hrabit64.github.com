@@ -10,12 +10,12 @@ categories:
   - title: ML
     children:
       - title: "ML-Agents & 강화학습"
-        url: /categories/ML_Agents/
+        url: categories/ML_Agents
       - title: "Tensorflow"
-        url: /categories/Tensorflow/
+        url: categories/Tensorflow
   
   - title: etc
     children:
       - title: "기타"
-        url: /categories/etc/
+        url: categories/etc
         
