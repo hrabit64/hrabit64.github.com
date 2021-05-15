@@ -10,4 +10,10 @@ var store = [{
         "tags": ["ML_Agents","Unity"],
         "url": "/ml_agents/mlagent2/",
         "teaser": null
+      },{
+        "title": "유니티 ML_Agents 공부해보기 - 기본구조(3) Academy",
+        "excerpt":"0. 기본 구조 유니티 블로그에서는 아카데미를 다음과 같이 설명하고 있다. “특정 씬에 있는 아카데미 오브젝트는 해당 환경에 포함된 모든 브레인을 자식으로 포함하고 있습니다. 각 환경은 환경의 범위를 정의하는 한 개의 아카데미를 포함하고 있으며, 그 정의는 다음과 같은 내용을 포함합니다.” 이 아카데미가 포함하는 항목은 다음과 같다. ● 브레인 설정 ● 화면...","categories": ["ML_Agents"],
+        "tags": ["ML_Agents","Unity"],
+        "url": "/ml_agents/mlagent3/",
+        "teaser": null
       }]
